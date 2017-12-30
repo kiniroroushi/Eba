@@ -1,6 +1,6 @@
 kiniroroushi
 ====
-# eba
+# Eba
 
 # contents
 1.[README](/README.md)　README  
