@@ -7,3 +7,4 @@ kiniroroushi
 2.[license](/license)　ライセンス
 3.[kernel](/kernel)　ebaの中核 
 
+
