@@ -8,7 +8,7 @@
 ・デバイスドライバー （device driver）
 　　sub rules>device
    device>sub rules
-  デバイスを運用するサブルールになります。
+  デバイスを運用するサブルール群になります。
 　
 
 
