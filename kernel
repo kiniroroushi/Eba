@@ -1,5 +1,5 @@
 ・Ebaの中核
 以下の流れが、Ebaにおける中核となります。
 
-module>point>rules,card>point>user play space
-user play space>point>rules,card>point>module
+module>point>rules>point>user play space
+user play space>point>rules>point>module
