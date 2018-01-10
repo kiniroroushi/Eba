@@ -1,7 +1,11 @@
 ・モジュール
 
 ・デバイス （device）
-  device>card,dice,drawing,sub rules etc
+  device-card,dice,drawing,sub rules etc
+
+・デバイスドライバー （device driver）
+
+
   
   
   
