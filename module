@@ -3,7 +3,7 @@
 module=device,device drive;
 
 //・デバイス （device）
-  device=card,dice,drawing,table etc;
+  device=card,dice,drawing,table,*etc;
   
   // デバイスはカード、ダイス、図、表 等になります。
 
