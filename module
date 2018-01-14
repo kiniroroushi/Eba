@@ -1,19 +1,19 @@
 {
-//・モジュール (module)
+// ・モジュール (module)
 module=device,device drive;
 
-//・デバイス （device）
+// ・デバイス （device）
   device=card,dice,drawing,table,*etc;
   
   // デバイスはカード、ダイス、図、表 等になります。
 
-//・デバイスドライバー （device driver）
+// ・デバイスドライバー （device driver）
 device driver=sub rules;
 　　
    sub rules->device;
    device->sub rules;
    
-  //デバイスを運用するサブルール群になります。
+  // デバイスドライバーはデバイスを運用するサブルール群になります。
 　
 }
 
