@@ -1,6 +1,6 @@
 {
 // ・モジュール (module)
-module=device,device drive;
+module=device,device driver;
 
 // ・デバイス （device）
   device=card,dice,drawing,table,*etc;
